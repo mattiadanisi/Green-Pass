@@ -1,0 +1,3 @@
+/Users/mattiadanisi/Desktop/Reti/GREEN_PASS/cmake-build-debug/CMakeFiles/GREEN_PASS.dir
+/Users/mattiadanisi/Desktop/Reti/GREEN_PASS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mattiadanisi/Desktop/Reti/GREEN_PASS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
